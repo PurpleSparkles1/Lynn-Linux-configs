@@ -67,9 +67,9 @@ fastfetch
 
 #Pacman 
 #------
-alias Syu="sudo pacman -Syu"
-alias Sy="sudo pacman -Sy"
-alias pi="sudo pacman -S"
+#alias Syu="sudo pacman -Syu"
+#alias Sy="sudo pacman -Sy"
+#alias pi="sudo pacman -S"
 #-----------------------
 
 #flatpak (On by Default)
